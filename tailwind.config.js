@@ -10,6 +10,10 @@ export default {
                 serif: ['Playfair Display', 'Georgia', 'serif'],
                 sans: ['Inter', 'system-ui', 'sans-serif'],
             },
+            colors: {
+                cream: '#fbfaf8',
+                'dark-overlay': 'rgba(0, 0, 0, 0.6)',
+            },
         },
     },
     plugins: [
